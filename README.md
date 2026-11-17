@@ -39,8 +39,8 @@ Contributed technical solutions and troubleshooting guidance to developer commun
 - **Upwork:** https://www.upwork.com/freelancers/~011f787a3215150e2f
 - **Freelancer:** https://www.freelancer.com/u/abdelhak101
 - **Mostaql:** https://mostaql.com/u/abdelhak101
-- **Linkedin:** 
-- **Email:** 
+- **Linkedin:** https://www.linkedin.com/in/abdelhak-bouriaz/
+- **Email:** bouriaz.abdelhak@gmail.com
 
 I'm open to freelance projects, SaaS development, and collaboration on existing software systems.
 <!--
