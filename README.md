@@ -23,6 +23,16 @@ I work across frontend and backend development, APIs, databases, microservices, 
 - **[Nagios Nginx](https://github.com/abdelhak101/nagios-nginx)** – Dockerized Nagios with Nginx and PHP-FPM.
 - **[Prompt Generator UI](https://github.com/abdelhak101/prompt-generator-ui)** – A tool for creating structured UI/UX design prompts.
 
+### Community Contributions
+
+Contributed technical solutions and troubleshooting guidance to developer communities through Stack Overflow and Ask Ubuntu.
+
+- **Ask Ubuntu:** Provided troubleshooting guidance for Anki installation and startup issues on Ubuntu 19.04.
+  [View Answer](https://askubuntu.com/questions/1135747/anki-doesnt-start-in-ubuntu-19-04/1135821#1135821)
+
+- **Stack Overflow:** Contributed a solution and CodeSandbox example addressing a React Material UI Grid layout issue.
+  [View Answer](https://stackoverflow.com/questions/68851195/material-ui-grid-item-not-working-properly/68851889#68851889)
+  
 ### Work & Contact
 
 - **Portfolio:** https://github.com/abdelhak101/my-portfolio
