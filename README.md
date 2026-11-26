@@ -42,6 +42,12 @@ Contributed technical solutions and troubleshooting guidance to developer commun
 - **Linkedin:** https://www.linkedin.com/in/abdelhak-bouriaz/
 - **Email:** bouriaz.abdelhak@gmail.com
 
+### 📄 Curriculum Vitae
+
+You can view or download my latest CV below:
+
+[**Abdelhak Bouriaz – CV (PDF)**](Abdelhak_Bouriaz_CV_v6.pdf)
+
 I'm open to freelance projects, SaaS development, and collaboration on existing software systems.
 <!--
 **abdelhak101/abdelhak101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
