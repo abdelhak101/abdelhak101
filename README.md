@@ -42,7 +42,7 @@ Contributed technical solutions and troubleshooting guidance to developer commun
 - **Linkedin:** https://www.linkedin.com/in/abdelhak-bouriaz/
 - **Email:** bouriaz.abdelhak@gmail.com
 
-### 📄 Curriculum Vitae
+### Curriculum Vitae
 
 You can view or download my latest CV below:
 
